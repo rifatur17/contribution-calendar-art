@@ -1,3 +1,14 @@
+<!-- BEGIN animated project showcase -->
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset=".github/showcase/still-overview-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset=".github/showcase/still-overview.svg">
+  <source media="(max-width: 600px)" srcset=".github/showcase/overview-mobile.svg">
+  <img src=".github/showcase/overview.svg" width="1200" alt="Contribution calendar art — animated workflow illustration, not live telemetry.">
+</picture>
+
+**Synthetic calendar art:** historical author dates are generated. They are not evidence of work performed on those dates.
+<!-- END animated project showcase -->
+
 # Synthetic contribution-calendar art
 
 This repository contains **generated, backdated Git author timestamps for calendar art**. It is not evidence of programming, employment, project delivery, or work performed on those historical dates.
